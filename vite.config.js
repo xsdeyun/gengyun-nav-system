@@ -18,7 +18,7 @@ export default defineConfig({
     host: '0.0.0.0', //ip地址
     proxy: {
       "/api": {
-        target: "http://nav.untview.top/",
+        target: "http://127.0.0.1/",
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/api/, ""),
       }
