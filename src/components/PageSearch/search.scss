@@ -1,0 +1,11 @@
+.page-search-content {
+    padding-top: 24px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    border-radius: 5px;
+
+    .n-form-content {
+        flex-wrap: wrap;
+    }
+}

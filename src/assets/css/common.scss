@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#app,
+body,
+html {
+  height: 100%;
+}
+
+// 全局自定义颜色
+:root {
+  --primary-hover: #2d8cf0;
+}
+
+// 页面公共样式
+.page-content {
+  margin-top: 15px;
+
+  .page-card-content {
+    border-radius: 5px;
+  }
+}
+
+// 组件样式重设
+.n-radio-group .n-radio-button.n-radio-button--checked{
+  background: var(--n-button-text-color-active) !important;
+  color: var(--n-button-color-active) !important;
+}
+.a-none{
+  text-decoration: none;
+  color: #000;
+}
