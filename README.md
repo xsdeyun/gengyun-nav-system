@@ -101,7 +101,18 @@ pnpm build
 ## 建议
 如果有任何功能上的建议可通过 [issue](https://gitee.com/song-xiansen/gengyun-nav-system/issues) 发起, Thank you.
 
+## 赞赏
+如果你觉得这个项目帮助到了你，赏一杯奶茶给作者吧 🫰🫰🫰。
+开源不易, 有了您的赞助, 我们会做的更好~
 
+<div>
+<p>微信</p>
+<img src="Preview/appreciate-weixn.jpg" width="80" />
+</div>
+<div>
+<p>支付宝</p>
+<img src="public/appreciate-zfb.jpg" width="80" />
+</div>
 
 ## 协议
 [MIT](./LICENSE)
