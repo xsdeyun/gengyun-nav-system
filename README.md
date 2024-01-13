@@ -105,17 +105,7 @@ pnpm build
 如果你觉得这个项目帮助到了你，赏一杯奶茶给作者吧 🫰🫰🫰。
 开源不易, 有了您的赞助, 我们会做的更好~
 
-<div style="display: flex;justify-content: flex-start;align-items: center;">
-    <div style="text-align: center;" align="center">
-        <p style="margin-bottom: 5px;font-weight: bold;">微信</p>
-        <img src="Preview/appreciate-weixn.jpg" width="150" />
-    </div>
-    <div style="text-align: center;" align="center">
-        <p  style="margin-bottom: 5px;font-weight: bold;">支付宝</p>
-        <img src="Preview/appreciate-zfb.jpg" width="150" />
-    </div>
-</div>
-
+<img src="Preview/appreciate.jpg" width="150" />
 
 ## 协议
 [MIT](./LICENSE)
