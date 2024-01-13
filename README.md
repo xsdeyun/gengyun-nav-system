@@ -50,6 +50,16 @@
 - 🏷️ 支持暗黑模式。
 - 🏷️ 支持后台管理。
 
+## 仓库
+
+### 前台源码
+[gengyun-nav](https://gitee.com/song-xiansen/gengyun-nav)
+
+### 后台源码
+[gengyun-nav-system](https://gitee.com/song-xiansen/gengyun-nav-system)
+
+### 服务端源码
+[gengyun-nav-server](https://gitee.com/song-xiansen/gengyun-nav-server)
 
 ## 开发构建 部署
 NODE: v16 <br />
