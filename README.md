@@ -22,6 +22,28 @@
 
 - 如果不需要修改什么，服务端的可以直接使用，不用下载下来重新打包部署。
 
+
+## 仓库
+
+#### Github
+- 前台源码
+[gengyun-nav](https://gitee.com/song-xiansen/gengyun-nav)
+- 后台源码
+[gengyun-nav-system](https://gitee.com/song-xiansen/gengyun-nav-system)
+- 服务端源码
+[gengyun-nav-server](https://gitee.com/song-xiansen/gengyun-nav-server)
+
+
+#### Gitee
+- 前台源码
+[gengyun-nav](https://gitee.com/song-xiansen/gengyun-nav)
+- 后台源码
+[gengyun-nav-system](https://gitee.com/song-xiansen/gengyun-nav-system)
+- 服务端源码
+[gengyun-nav-server](https://gitee.com/song-xiansen/gengyun-nav-server)
+
+
+
 ## 预览
 **主题**
 
@@ -49,25 +71,6 @@
 - 🏷️ 支持自定义引擎搜索。
 - 🏷️ 支持暗黑模式。
 - 🏷️ 支持后台管理。
-
-## 仓库
-
-#### Github
-- 前台源码
-[gengyun-nav](https://gitee.com/song-xiansen/gengyun-nav)
-- 后台源码
-[gengyun-nav-system](https://gitee.com/song-xiansen/gengyun-nav-system)
-- 服务端源码
-[gengyun-nav-server](https://gitee.com/song-xiansen/gengyun-nav-server)
-
-
-#### Gitee
-- 前台源码
-[gengyun-nav](https://gitee.com/song-xiansen/gengyun-nav)
-- 后台源码
-[gengyun-nav-system](https://gitee.com/song-xiansen/gengyun-nav-system)
-- 服务端源码
-[gengyun-nav-server](https://gitee.com/song-xiansen/gengyun-nav-server)
 
 
 ## 开发构建 部署
