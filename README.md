@@ -107,7 +107,7 @@ pnpm build
 <img src="Preview/weixin-gzh.jpg" width="120" />
 
 ## 赞赏
-如果你觉得这个项目帮助到了你，赏一杯奶茶给作者吧 🫰🫰🫰。
+如果你觉得这个项目帮助到了你，赏一杯奶茶给作者吧 🫰🫰🫰。<br/>
 开源不易, 有了您的赞助, 我们会做的更好~
 
 <img src="Preview/appreciate.jpg" width="400" />
