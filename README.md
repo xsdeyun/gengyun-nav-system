@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://nav.untview.top/">
-    <img src="src/assets/image/logo.png" width="80" />
+    <img src="public/logo.png" width="80" />
   </a>
   <br />
   <b>耕云导航</b>
