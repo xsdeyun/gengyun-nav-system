@@ -105,7 +105,7 @@ pnpm build
 如果你觉得这个项目帮助到了你，赏一杯奶茶给作者吧 🫰🫰🫰。
 开源不易, 有了您的赞助, 我们会做的更好~
 
-<img src="Preview/appreciate.jpg" width="150" />
+<img src="Preview/appreciate.jpg" width="400" />
 
 ## 协议
 [MIT](./LICENSE)
