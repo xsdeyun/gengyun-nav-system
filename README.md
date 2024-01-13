@@ -106,13 +106,16 @@ pnpm build
 开源不易, 有了您的赞助, 我们会做的更好~
 
 <div>
+<div>
 <p>微信</p>
 <img src="Preview/appreciate-weixn.jpg" width="80" />
 </div>
 <div>
 <p>支付宝</p>
-<img src="public/appreciate-zfb.jpg" width="80" />
+<img src="Preview/appreciate-zfb.jpg" width="80" />
 </div>
+</div>
+
 
 ## 协议
 [MIT](./LICENSE)
